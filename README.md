@@ -33,5 +33,5 @@ Ma naissance à maintenant. ¯\_(ツ)_/¯
 
 ---
 
-[<< previous]()(WIP) || Scourneau Julien || [Next >>](https://github.com/VVKDO98/challenge-markdown)
+[<< previous](https://github.com/kamigella/challenge-markdown/blob/main/README.md) || Scourneau Julien || [Next >>](https://github.com/VVKDO98/challenge-markdown)
 
