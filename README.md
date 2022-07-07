@@ -11,7 +11,7 @@
 | genre | masculin |
 | Couleur préféré | Rouge |
 | Nourriture préféré | ¯\_(ツ)_/¯ |
-| Ananas sur la pizza |  yes &#9744; no &#9745; |
+| Ananas sur la pizza |  <li>- [x] Non</li><li>- [ ] Oui</li> |
 
 ## Hobbies
 - Guitare
